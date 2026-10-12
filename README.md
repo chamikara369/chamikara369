@@ -34,7 +34,7 @@
 
 <!-- ==================== ABOUT ME ==================== -->
 
-<h2 align="center">01 // ABOUT ME</h2>
+<h2 align="center">ABOUT ME</h2>
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
 
@@ -42,13 +42,13 @@ Hi! I'm **Chamikara Dissanayake**, a Data Science undergraduate at the **Sri Lan
 
 I'm interested in exploring data, developing machine learning models, and transforming raw information into meaningful insights.
 
-- 🎓 Data Science undergraduate at SLIIT.
-- 🐍 Exploring Python for data analysis and machine learning.
-- 🤖 Learning machine learning algorithms and predictive modelling.
-- 📊 Interested in statistics and data visualization.
-- 🧠 Exploring model evaluation and optimization techniques.
-- 🚀 Building practical projects to strengthen my technical skills.
-- 🌱 Continuously learning and improving.
+-  Data Science undergraduate at SLIIT.
+-  Exploring Python for data analysis and machine learning.
+-  Learning machine learning algorithms and predictive modelling.
+-  Interested in statistics and data visualization.
+-  Exploring model evaluation and optimization techniques.
+-  Building practical projects to strengthen my technical skills.
+-  Continuously learning and improving.
 
 <br clear="right"/>
 
@@ -56,7 +56,7 @@ I'm interested in exploring data, developing machine learning models, and transf
 
 <!-- ==================== TECH STACK ==================== -->
 
-<h2 align="center">02 // TECH ARSENAL</h2>
+<h2 align="center">TECH ARSENAL</h2>
 
 <h3 align="center">Programming Languages</h3>
 
@@ -93,7 +93,7 @@ I'm interested in exploring data, developing machine learning models, and transf
 
 <!-- ==================== MACHINE LEARNING ==================== -->
 
-<h2 align="center">03 // MACHINE LEARNING LAB</h2>
+<h2 align="center">MACHINE LEARNING LAB</h2>
 
 <div align="center">
 
@@ -118,7 +118,7 @@ I'm interested in exploring data, developing machine learning models, and transf
 
 <!-- ==================== PROJECTS ==================== -->
 
-<h2 align="center">04 // PROJECT SHOWCASE</h2>
+<h2 align="center">PROJECT SHOWCASE</h2>
 
 <div align="center">
 
@@ -152,7 +152,7 @@ A university healthcare management system focused on patient management and clin
 
 <!-- ==================== GITHUB STATISTICS ==================== -->
 
-<h2 align="center">05 // GITHUB PERFORMANCE</h2>
+<h2 align="center">GITHUB PERFORMANCE</h2>
 
 <div align="center">
 
@@ -170,7 +170,7 @@ A university healthcare management system focused on patient management and clin
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
-<h2 align="center">06 // CONTRIBUTION ACTIVITY</h2>
+<h2 align="center">CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
@@ -182,7 +182,7 @@ A university healthcare management system focused on patient management and clin
 
 <!-- ==================== CONNECT ==================== -->
 
-<h2 align="center">07 // CONNECT WITH ME</h2>
+<h2 align="center">CONNECT WITH ME</h2>
 
 <div align="center">
 
