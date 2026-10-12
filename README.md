@@ -72,14 +72,33 @@ I'm interested in understanding data, exploring machine learning techniques, and
 
 ## Projects
 
-### Machine Learning Projects
-Exploring classification algorithms, model evaluation, and data preprocessing.
+### 01. Online Food Delivery Management System
 
-### Data Analysis Projects
-Working with datasets to discover patterns and communicate insights.
+A software application designed to manage the core operations of an online food delivery service, including food ordering, order management, and customer interactions.
 
-### NutriHealth
-A university healthcare management system developed using Java, Spring Boot, and MySQL.
+**Project Focus:** Application development, order processing, and database management.
+
+**Technologies:** Add the actual technologies used in your project here.
+
+---
+
+### 02. Web-Based Diet Planning & Health Check-up System
+
+A web-based healthcare application designed to support personalized diet planning and health check-ups through a digital platform.
+
+**Project Focus:** Health information management, diet planning, and web-based healthcare services.
+
+**Technologies:** React, Tailwind CSS, Java, Spring Boot, MySQL.
+
+---
+
+### 03. Adult Income Prediction Using Machine Learning
+
+A machine learning project that explores income classification using the Adult Census Income dataset. The project focuses on data preprocessing, classification algorithms, and evaluating predictive model performance.
+
+**Project Focus:** Data preprocessing, feature encoding, classification, model evaluation, and performance comparison.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook.
 
 ---
 
